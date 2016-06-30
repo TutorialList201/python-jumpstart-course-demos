@@ -1,0 +1,619 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"or",
+				"original_date	param"
+			],
+			[
+				"d",
+				"datetime	class"
+			],
+			[
+				"print",
+				"print_birthday_information	function"
+			],
+			[
+				"comp",
+				"compute_days_between_dates	function"
+			],
+			[
+				"get",
+				"get_birthday_from_user	function"
+			],
+			[
+				"red",
+				"calibrated_red"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"from",
+				"fromarray	function"
+			],
+			[
+				"Brig",
+				"BrightnessMSB	statement"
+			],
+			[
+				"Br",
+				"BrightnessLSB"
+			],
+			[
+				"COLOR_BGR2",
+				"COLOR_BGR2XYZ	instance"
+			],
+			[
+				"H",
+				"HSV"
+			],
+			[
+				"COLOR_BGR2H",
+				"COLOR_BGR2HSV	instance"
+			],
+			[
+				"WIN",
+				"WINDOW_NORMAL	instance"
+			],
+			[
+				"hist",
+				"histogram	function"
+			],
+			[
+				"cal",
+				"calibration"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"Poi",
+				"PointLabelTooltip	class"
+			],
+			[
+				"Ac",
+				"ActualWhitey"
+			],
+			[
+				"Actu",
+				"ActualWhitex"
+			],
+			[
+				"ana",
+				"analyze_bins	function"
+			],
+			[
+				"mat",
+				"matching	statement"
+			],
+			[
+				"arg",
+				"arguments	statement"
+			],
+			[
+				"color",
+				"color_bins	statement"
+			],
+			[
+				"col",
+				"color_bins	statement"
+			],
+			[
+				"help",
+				"help_menu	function"
+			],
+			[
+				"uin",
+				"uint16"
+			],
+			[
+				"IM",
+				"IMREAD_UNCHANGED	instance"
+			],
+			[
+				"IMREAD",
+				"IMREAD_UNCHANGED	instance"
+			],
+			[
+				"IMRE",
+				"IMREAD_ANYDEPTH	instance"
+			],
+			[
+				"num",
+				"num_leds	statement"
+			],
+			[
+				"find",
+				"find_leds	function"
+			],
+			[
+				"CV_LOA",
+				"CV_LOAD_IMAGE_UNCHANGED	instance"
+			],
+			[
+				"file",
+				"filename	param"
+			],
+			[
+				"measure",
+				"measurements"
+			],
+			[
+				"is",
+				"isinstance	function"
+			],
+			[
+				"IMREAD_ANY",
+				"IMREAD_ANYDEPTH	instance"
+			],
+			[
+				"measur",
+				"measureImage	function"
+			],
+			[
+				"rgb_",
+				"rgb_tif"
+			],
+			[
+				"anal",
+				"analyzeColor"
+			],
+			[
+				"Actual",
+				"ActualWhitey"
+			],
+			[
+				"bot",
+				"bottom_intensity"
+			],
+			[
+				"top",
+				"top_intensity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "apps/04_journal/you_try/program.py",
+			"settings":
+			{
+				"buffer_size": 727,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "apps/04_journal/final/program.py",
+			"settings":
+			{
+				"buffer_size": 1291,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 157.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"vin",
+				"Vintageous: Reset"
+			],
+			[
+				"vint",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps/03_birthday",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps/03_birthday/you_try",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps/04_journal",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps/04_journal/final",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps/04_journal/you_try"
+	],
+	"file_history":
+	[
+		"/C/Repos/spiVisionCalDLL/spiVisionCalTest/Main.cpp",
+		"/C/Repos/cmdproc/dmcolor.py",
+		"/C/Repos/cmdproc/dmamber.py",
+		"/C/Users/aldrlu/Downloads/python-jumpstart-course-demos/apps/03_birthday/you_try/program.py",
+		"/C/Program Files (x86)/spiVisionCal/spiVisionCal.log",
+		"/C/Repos/FCDM_26K20/plat_nvram.h",
+		"/C/Repos/FCDM_26K20/console.h",
+		"/C/Repos/FCDM_26K20/command_line.c",
+		"/C/Repos/FCDM_26K20/fcdm.c",
+		"/C/Repos/FCDM_26K20/plat_nvram.c",
+		"/C/Users/aldrlu/AppData/Local/Temp/vault13d0f7a5-bab5-4866-b339-98e8a8ac48d4/cmd_proc.c",
+		"/C/Repos/common/Controller_MSC/signproc/comm.cpp",
+		"/C/Program Files (x86)/Microchip/xc8/v1.36/dat/lkr/18f27j13_g.lkr",
+		"/C/Program Files (x86)/Microchip/xc8/v1.36/lib/pic-eeprom-16lf18876.lpp",
+		"/C/FCDD/FCDD/.cproject",
+		"/C/Users/aldrlu/AppData/Local/Temp/vault5ce475c1-1843-41ae-bca7-9338c4ce168b/version.c",
+		"/C/Repos/FCDM_27J13/cmd_proc.c",
+		"/C/Repos/FCDM_27J13/fcdd2fcdm.h",
+		"/C/Users/aldrlu/AppData/Local/Temp/vaultb1d8f510-79ac-45d2-b0a4-253644b2f3dc/version.c",
+		"/C/Users/aldrlu/Documents/Color Sign/Grayscale Calibration Experiment/grayscale_evaluation_bmp.py",
+		"/C/Users/aldrlu/AppData/Local/Temp/vaultde45a744-8dc4-4ce3-a5e6-74891fdd5b31/fcdd2fcdm.h",
+		"/C/Users/aldrlu/Documents/Vagrantfile",
+		"/C/Users/aldrlu/AppData/Local/Temp/vault1e8b89b2-11a3-4b36-a7b5-c4a39fa6f1ff/fcdd2fcdm.h",
+		"/C/Users/aldrlu/Documents/Color Sign/grayscale_evaluation_bmp.py",
+		"/C/Users/aldrlu/Documents/Color Sign/analyze.py",
+		"/C/Users/aldrlu/AppData/Local/Temp/Temp1_Logic+1.2.8+(64-bit).zip/Logic 1.2.8 (64-bit)/Logic",
+		"/C/Users/aldrlu/Downloads/TimingAnalyzer_b9893/TimingAnalyzer_b9893/start_app.py",
+		"/C/Users/aldrlu/Downloads/spi_to_i2c_bridge.vhd",
+		"/C/Repos/FCDD/FCDD/qspi_task.cpp",
+		"/C/Users/aldrlu/Downloads/rb18.patch",
+		"/C/Repos/cmdproc/scripts/white_demo",
+		"/C/Repos/cmdproc/scripts/gb_blue_demo",
+		"/C/Repos/cmdproc/scripts/gb_red_demo",
+		"/C/Repos/cmdproc/scripts/gb_green_demo",
+		"/C/Repos/cmdproc/fcdb.py",
+		"/media/sf_Repos/cmdproc/scripts/gb_red_demo",
+		"/media/sf_Repos/cmdproc/scripts/gb_blue_demo",
+		"/media/sf_Repos/cmdproc/.gitignore",
+		"/media/sf_Repos/cmdproc/dmcolor.py",
+		"/media/sf_Repos/cmdproc/CRC.py",
+		"/media/sf_Repos/cmdproc/dmamber.py",
+		"/media/sf_Repos/FCDD/crc.h",
+		"/media/sf_Repos/FCDD/FC_Messages.h",
+		"/media/sf_Repos/FCDD/cmd_line_commands.cpp",
+		"/media/sf_Repos/FCDD/cmd_line_processor.cpp",
+		"/media/sf_Repos/FCDD/crc.cpp",
+		"/media/sf_Repos/FCDD/command_task.cpp",
+		"/media/sf_Repos/cmdproc/EDB.py",
+		"/media/sf_Repos/cmdproc/fcdb.py",
+		"/media/sf_Repos/cmdproc/stcolor",
+		"/media/sf_Repos/cmdproc/PIC.py",
+		"/media/sf_Repos/cmdproc/FEATURE_REQUESTS",
+		"/home/lukas/sun5i-r8-chip.dts",
+		"/home/lukas/dev/colorcal/blue-analysis.py",
+		"/home/lukas/dev/colorcal/blue46-analysis.py",
+		"/home/lukas/test/python/calibration/saleSignStats.py",
+		"/home/lukas/dev/colorcal/convert-color-space.py",
+		"/home/lukas/dev/colorcal/test-color-planes.py",
+		"/home/lukas/dev/colorcal/ledbins.py",
+		"/home/lukas/dev/colorcal/analyze.py",
+		"/home/lukas/dev/colorcal/hist.py",
+		"/home/lukas/dev/colorcal/measure-image.py",
+		"/home/lukas/dev/fcdm/cal/level2/measure-image.py",
+		"/home/lukas/dev/fcdm/cal/level1/analyze.py",
+		"/home/lukas/test/calibration/detect_circles.py",
+		"/home/lukas/test/calibration/rectangle.py",
+		"/home/lukas/Downloads/scatter_tooltip.py",
+		"/home/untitled.sh",
+		"/home/lukas/Downloads/scatter3d_demo.py",
+		"/home/lukas/ex3b.py",
+		"/home/lukas/test/calibration/il18stats.py",
+		"/home/lukas/dev/fcdm/cal/level1/ledbins.py",
+		"/usr/local/lib/python2.7/dist-packages/colour/plotting/models.py",
+		"/home/lukas/test/calibration/onpick.py",
+		"/home/lukas/dev/fcdm/cal/level1/analyze-cal.py",
+		"/home/lukas/test/python/cli.py",
+		"/home/lukas/test/calibration/saleSignStats.py",
+		"/home/lukas/test/python/docopt.py",
+		"/home/lukas/dev/fcdm/cal/level1/led-bins.py",
+		"/home/lukas/test/python/color/blob.py",
+		"/home/lukas/dev/fcdm/cal/level2/measureImage.py",
+		"/home/lukas/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/usr/lib/python2.7/dist-packages/mpl_toolkits/mplot3d/axes3d.py",
+		"/home/lukas/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/lukas/test/calibration/canon_meter.py",
+		"/home/lukas/Downloads/surface3d_demo.py",
+		"/home/lukas/test/calibration/analyze_canon.py",
+		"/home/lukas/test/calibration/analyze461.py",
+		"/home/lukas/test/calibration/plot_rgb.py",
+		"/home/lukas/test/calibration/avago_leds.py",
+		"/home/lukas/test/python/color/cie.py",
+		"/home/lukas/test/python/notebooks/basic_plot.py",
+		"/home/lukas/rich_deadpixels.txt",
+		"/home/lukas/deadpixels.txt",
+		"/home/lukas/test/calibration/3dexample.py",
+		"/home/lukas/test/python/notebooks/cie1931.py",
+		"/home/lukas/test/python/notebooks/01_basic_plotting.ipynb",
+		"/home/lukas/test/snmp/scripts/drumtest1.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"case",
+			"CAL_E",
+			"CAL",
+			"rc = select",
+			"Bill",
+			"SendVisionCalColorCorrection",
+			"ReportStatusRep",
+			"HandleReportStatusCmd",
+			"qspiinit",
+			"report_status",
+			"REPORT_STATUS_CMD",
+			"FCDD_REPORT_STATUS_CMD",
+			"brightness",
+			"brigh",
+			"CRC",
+			"<<",
+			"write_datastream",
+			"write_gslat",
+			"pwm",
+			"cm",
+			":\n",
+			"buildList",
+			"analyze_cal",
+			"data",
+			"buffer",
+			"helpMenu",
+			"measureImage",
+			"w_size",
+			"window",
+			"raw_color",
+			"measurement",
+			",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"analyze",
+			"buf",
+			"help_menu",
+			"intensity",
+			"window",
+			"w_size",
+			"raw_rgb",
+			"measurements"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "apps/04_journal/you_try/program.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "apps/04_journal/final/program.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "python-jumpstart-course-demos.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Repos\\FCDM_26K20\\FCDM_26K20.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
