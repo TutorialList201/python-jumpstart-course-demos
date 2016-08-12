@@ -3,8 +3,8 @@ import requests
 import bs4
 import collections
 
-WeatherReport = collections.namedtuple('WeatherReport','condition',
-                                       'temperature', 'unit', 'location')
+WeatherReport = collections.namedtuple('WeatherReport',
+                                       'condition, temperature, unit, location')
 
 
 def main():
@@ -20,9 +20,6 @@ def main():
         report.temperature,
         report.unit,
         report.condition))
-    # parse the html
-    # display for the forcast
-    print('hello from main')
 
 
 def print_the_header():
@@ -34,7 +31,6 @@ def print_the_header():
 
 def get_html_from_web(zip_code):
     url = 'http://www.wunderground.com/weather-forecast/{}'.format(zip_code)
-    print(url)
     response = requests.get(url)
 
     return response.text
@@ -52,7 +48,7 @@ def get_weather_from_html(html):
     condition = cleanup_text(condition)
     temperature = cleanup_text(temperature)
     unit = cleanup_text(unit)
-    
+
     report = WeatherReport(condition=condition, temperature=temperature,
                            unit=unit, location=location)
     return report
